@@ -46,18 +46,15 @@ jangapp-contact-cypress/
 
 
 ## ⚙️ Instalación
-
 # 🛠 Requisitos Previos
 Antes de ejecutar el proyecto, asegúrate de tener instaladas las siguientes herramientas:
 
 ## **1️⃣ Node.js (OBLIGATORIO)**
 Cypress requiere Node.js 16+.
 Verifica si está instalado:
-
 node -v
 
 Si no aparece versión, descárgalo en:
-
 👉 https://nodejs.org/
 
 2️⃣ Cypress
@@ -138,3 +135,4 @@ Proyecto desarrollado por Saúl García
 - Generación dinámica de datos
 - Integración con Allure
 - Evidencia en video
+
