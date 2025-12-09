@@ -1,0 +1,6 @@
+{
+  "emailDomain": "example.com",
+  "messagePrefix": "Hola, este es un mensaje automatizado:",
+  "minWords": 8,
+  "maxWords": 25
+}
